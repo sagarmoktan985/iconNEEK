@@ -1,0 +1,22 @@
+*{
+    transition: all 0.5s !important;
+}
+
+
+#banner{
+    height: 75vh;
+    border-radius: 40px;
+    margin: 20px auto;
+    width: 90%;
+    overflow: hidden;
+    box-shadow: 0 0 8px;
+}
+
+#banner .carousel-item{
+    height: 75vh;
+}
+
+#banner .carousel-item .img{
+    height: 100%;
+
+}
